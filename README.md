@@ -28,7 +28,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes y herramientas</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,springboot,js,html,css,angular,sql,postgres,mongo,git,vscode,docker,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,spring,js,html,css,angular,postgres,mongo,git,vscode,docker,postman&perline=10"  />
 </p>
 <br />
 
